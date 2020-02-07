@@ -1,4 +1,4 @@
-proxy means an object representing another object.
+Proxy means an object representing another object.
 
 According to GoF, a Proxy Pattern "provides the control for accessing the original object".
 
