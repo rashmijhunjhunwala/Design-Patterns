@@ -9,4 +9,4 @@ encapsulates each algorithm, and
 makes the algorithms interchangeable within that family.”
 
 
-Comparing our design to the definition of strategy pattern encapsulated grooming and shedding behaviors are two families of algorithms. And these algorithms are interchangeable as evident in implementation.
+Comparing our example to the definition of strategy pattern encapsulated grooming and shedding behaviors are two families of algorithms. And these algorithms are interchangeable as evident in implementation.
