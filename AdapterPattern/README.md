@@ -1,4 +1,4 @@
-An Adapter Pattern says that just "converts the interface of a class into another interface that a client wants".
+An Adapter Pattern "converts the interface of a class into another interface that a client wants".
 
 Adapters are used when we have a class (Client) expecting some type of object and we have an object (Adaptee) offering the same features but exposing a different interface.
 
