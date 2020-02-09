@@ -3,7 +3,6 @@ public class Mozarella extends ToppingDecorator {
 	public Mozarella(Pizza pizza)
 	{
 		super(pizza);
-		System.out.println("Adding dough");
 		System.out.println("Adding mozarella");
 	}
 	public double cost()
