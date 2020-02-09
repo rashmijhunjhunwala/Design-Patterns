@@ -1,5 +1,10 @@
 
 public class PlainPizza implements Pizza {
+	
+	public PlainPizza()
+	{
+		System.out.println("Adding dough");
+	}
 
 	@Override
 	public double cost() {
